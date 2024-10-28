@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\RpgHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\RpgHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Abilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Abilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Explore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Explore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Items.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Items.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Drops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Drops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Events.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C77403AA-D1D9-4AD7-9B98-8CFF2087823E}|RPGWORKPLS\\RPGWORKPLS.vcxproj|solutionrelative:RPGWORKPLS\\Events.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Items.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Items.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Items.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Items.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Items.cpp",
+              "ViewState": "AQIAAEMCAAAAAAAAAAAAABoCAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T15:27:39.389Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drops.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Drops.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Drops.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Drops.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Drops.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAOMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T23:14:36.315Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RpgHeader.h",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\RpgHeader.h",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\RpgHeader.h",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\RpgHeader.h",
+              "RelativeToolTip": "RPGWORKPLS\\RpgHeader.h",
+              "ViewState": "AQIAACYBAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-04T15:23:42.308Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Main.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Main.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Main.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T06:52:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Explore.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Explore.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Explore.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Explore.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Explore.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T02:40:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Battle.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Battle.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Battle.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Battle.cpp",
+              "ViewState": "AQIAAI0BAAAAAAAAAAAwwGQCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T23:18:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Events.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Events.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Events.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Events.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Events.cpp",
+              "ViewState": "AQIAANwAAAAAAAAAAAAAAPEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T18:39:08.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abilities.cpp",
+              "DocumentMoniker": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Abilities.cpp",
+              "RelativeDocumentMoniker": "RPGWORKPLS\\Abilities.cpp",
+              "ToolTip": "C:\\Users\\lukas\\source\\repos\\RPGWORKPLS\\RPGWORKPLS\\Abilities.cpp",
+              "RelativeToolTip": "RPGWORKPLS\\Abilities.cpp",
+              "ViewState": "AQIAAAgCAAAAAAAAAAAmwCcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T15:22:03.241Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
